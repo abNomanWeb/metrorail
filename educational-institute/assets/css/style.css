@@ -1,0 +1,19 @@
+.contact-us ul{
+    margin: 0px;
+    padding: 0px;
+}
+.contact-us ul li{
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0px;
+    list-style: none;
+    background: #c2c2c2;
+    border: 1px solid teal;
+    border-radius: 20px;
+    transition: .5s linear;
+    cursor: pointer;
+}
+.contact-us ul li:hover{
+    color: #080707;
+    background: #d8dcbf;
+}
